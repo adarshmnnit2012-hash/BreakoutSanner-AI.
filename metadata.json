@@ -1,0 +1,6 @@
+{
+  "name": "BreakoutScanner AI",
+  "description": "Professional AI-powered breakout and momentum trading scanner for Indian stock markets with interactive charts, alerts, and mock broker integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
